@@ -1,0 +1,15 @@
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\bin\Debug\net6.0\UnitsDrafts.exe
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\bin\Debug\net6.0\UnitsDrafts.deps.json
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\bin\Debug\net6.0\UnitsDrafts.runtimeconfig.json
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\bin\Debug\net6.0\UnitsDrafts.dll
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\bin\Debug\net6.0\UnitsDrafts.pdb
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\obj\Debug\net6.0\UnitsDrafts.csproj.AssemblyReference.cache
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\obj\Debug\net6.0\UnitsDrafts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\obj\Debug\net6.0\UnitsDrafts.AssemblyInfoInputs.cache
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\obj\Debug\net6.0\UnitsDrafts.AssemblyInfo.cs
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\obj\Debug\net6.0\UnitsDrafts.csproj.CoreCompileInputs.cache
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\obj\Debug\net6.0\UnitsDrafts.dll
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\obj\Debug\net6.0\refint\UnitsDrafts.dll
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\obj\Debug\net6.0\UnitsDrafts.pdb
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\obj\Debug\net6.0\UnitsDrafts.genruntimeconfig.cache
+C:\Users\Vadim.Nacharov\source\repos\UnitsDrafts\UnitsDrafts\obj\Debug\net6.0\ref\UnitsDrafts.dll
